@@ -1,3 +1,4 @@
+
 require "rubygems"
 require "tmpdir"
 
@@ -6,7 +7,7 @@ require "jekyll"
 
 
 # Change your GitHub reponame eg. "kippt/jekyll-incorporated"
-GITHUB_REPONAME = ""
+GITHUB_REPONAME = "jiroInc/jiroInc.github.io"
 
 
 namespace :site do

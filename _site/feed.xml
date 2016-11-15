@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title></title>
-    <link>http://incorporated.sendtoinc.com</link>
-    <atom:link href="http://incorporated.sendtoinc.com/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://jiroinc.github.io/</link>
+    <atom:link href="https://jiroinc.github.io//feed.xml" rel="self" type="application/rss+xml" />
     <description></description>
     <language>en-us</language>
-    <pubDate>Tue, 15 Nov 2016 02:47:42 +0000</pubDate>
-    <lastBuildDate>Tue, 15 Nov 2016 02:47:42 +0000</lastBuildDate>
+    <pubDate>Tue, 15 Nov 2016 03:26:04 +0000</pubDate>
+    <lastBuildDate>Tue, 15 Nov 2016 03:26:04 +0000</lastBuildDate>
 
     
     
     <item>
       <title>Jiro Inc is comming</title>
-      <link>http://incorporated.sendtoinc.com/2016/11/04/incorporated/</link>
+      <link>https://jiroinc.github.io//2016/11/04/incorporated/</link>
       <pubDate>Fri, 04 Nov 2016 00:00:00 +0000</pubDate>
       <author></author>
-      <guid>http://incorporated.sendtoinc.com/2016/11/04/incorporated</guid>
+      <guid>https://jiroinc.github.io//2016/11/04/incorporated</guid>
       <description>&lt;p&gt;Incorporated provides a great typography, responsive design, author details, semantic markup and more.&lt;/p&gt;
 
 &lt;p&gt;You can set customize post covers, and other things directly in the post front matter:&lt;/p&gt;
