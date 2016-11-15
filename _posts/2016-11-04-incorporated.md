@@ -1,18 +1,18 @@
 ---
 layout: post
 
-title: Jekyll Incorporated Features
+title: Jiro Inc is comming 
 subtitle: "What's in the box"
 cover_image: blog-cover.jpg
 
 excerpt: "Incorporated provides a great typography, responsive design, author details, semantic markup and more."
 
 author:
-  name: Karri Saarinen
-  twitter: karrisaarinen
-  gplus: 100687498195339762535 
-  bio: Co-founder, Design
-  image: ks.png
+  name: Josuedani
+  twitter: josuedani2
+  #gplus: 100687498195339762535 
+  bio: Co-founder
+  #image: ks.png
 ---
 
 Incorporated provides a great typography, responsive design, author details, semantic markup and more.
